@@ -66,6 +66,6 @@ def visual_draw_position(grr):
 
 # SpeedTest("Images/test3.jpg")
 # test_image = cv2.imread("Images/test4.jpg")
-test_image = cv2.imread("Images/test4.jpg")
+test_image = cv2.imread("Images/a3.jpg")
 print(recognize_plate(test_image))
 visual_draw_position(test_image)
