@@ -1,5 +1,5 @@
 ---
-typora-root-url: ./
+
 ---
 
 # License-plate-RC
@@ -58,7 +58,6 @@ Modeling with convolutional neural networks
         accuracy = tf.reduce_mean(tf.cast(correct_prediction, tf.float32))
         # 运行整个网络
         sess.run(tf.global_variables_initializer())
-
 
 In the second project, the license plates taken on the spot were directly recognized.
 
