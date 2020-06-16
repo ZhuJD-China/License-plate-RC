@@ -14,7 +14,7 @@ There are two items in the directory 。
 
 The first project identifies preprocessed license plate characters. 
 
-![](/Car-RC/car/0-000e-4064-85c.jpg)
+![image](https://github.com/ZhuJD-China/License-plate-RC/raw/master/Car-RC/car/0-000e-4064-85c.jpg)
 
 Modeling with convolutional neural networks
 
