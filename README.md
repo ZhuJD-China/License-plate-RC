@@ -61,7 +61,7 @@ Modeling with convolutional neural networks
 
 In the second project, the license plates taken on the spot were directly recognized.
 
-![](/PlateRecognition/output.png)
+![image](https://github.com/ZhuJD-China/License-plate-RC/raw/master/output.png)
 
 Based on HyperLPR Source Framework（hyperlpr High Performance Open Source Chinese License Plate Recognition Framework ）
 
